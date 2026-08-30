@@ -24,7 +24,7 @@ export const portfolioData = {
         degree: "B.Tech in Computer Science and Engineering",
         institution: "Lovely Professional University",
         year: "2025-2029",
-        cgpa: "8.50",
+        cgpa: "8.67",
       },
     ],
   },
