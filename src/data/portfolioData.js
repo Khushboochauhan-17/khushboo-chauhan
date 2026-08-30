@@ -3,7 +3,7 @@ import profileImg from '../public/chauhan.png';
 export const portfolioData = {
   personal: {
     name: "Khushboo Chauhan",
-    title: "Software Developper",
+    title: "Full stack web developer",
     tagline: "[WRITE YOUR TAGLINE]",
     about: "I am a Computer Science and Engineering student at Lovely Professional University with a strong interest in software development and problem-solving. I enjoy building practical projects that help me strengthen my programming, web development, and data structures skills. My projects include a LiFi-based highway navigation system, a student record management system using linked lists, and web-based applications using HTML and CSS. I am continuously learning new technologies, improving my coding skills, and looking for opportunities to apply my knowledge to real-world software development challenges.",
     academicBackground: "B.Tech CSE at Lovely Professional University",
