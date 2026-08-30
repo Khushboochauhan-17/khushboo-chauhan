@@ -1,3 +1,5 @@
+import profileImg from '../public/chauhan.png';
+
 export const portfolioData = {
   personal: {
     name: "Khushboo Chauhan",
@@ -9,7 +11,7 @@ export const portfolioData = {
     technicalInterests: "Web Development, Software Engineering, and AI-powered Solutions",
     location: "Phagwara, Punjab, India",
     email: "khushboochauhan172007@gmail.com",
-    profileImage: "", // Leave empty to show placeholder
+    profileImage: profileImg,
   },
   socials: {
     github: "https://github.com/Khushboochauhan-17",
